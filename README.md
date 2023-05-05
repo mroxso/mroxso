@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on nostr, bitcoin and lightning tools
+- 📫 Nostr: npub1fq8vrf63vsrqjrwqgtwlvauqauc0yme6se8g8dqhcpf6tfs3equqntmzut 
+
 <!--
 **mroxso/mroxso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
